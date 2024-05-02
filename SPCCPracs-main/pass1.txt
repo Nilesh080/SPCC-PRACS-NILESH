@@ -1,0 +1,6 @@
+FIRST START 1000
+      LDA   ='10'
+      STA   ALPHA
+FIVE  DC    5
+ALPHA DS    5
+      END
